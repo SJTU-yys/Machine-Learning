@@ -1,9 +1,0 @@
-*.pyc
-*.data
-datas/templatejp
-datas/train.txt
-dump
-*.dat
-ubobx
-*.txt
-model
